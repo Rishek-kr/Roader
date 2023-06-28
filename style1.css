@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(222, 219, 219) ;
+    text-align: center;
+    font-family: 'Merriweather',serif ;
+    margin: 0;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted ;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+h1{
+    color: #66BFBF ;
+    font-family: 'Sacramento',cursive;
+    margin: 55px auto 0 auto;
+    font-size: 4.125rem;
+}
+p{
+    line-height: 2;
+    color: #40514E;
+}
+a{
+    color: #11999E;
+    font-family: 'Montserrat',sans-serif;
+    margin: 10px 20px;
+}
+a:hover{
+    color: #EAF6F6;
+}
+
